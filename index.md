@@ -3,7 +3,7 @@
 
 # Hello World
 
-## [About me](./about).
+## [About me](./about/).
 
 ## [Arquivo](./posts).
 
