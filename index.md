@@ -3,10 +3,12 @@
 
 # Hello World
 
+## [About me](./about.html).
+
 {% for post in site.posts %}
 
-  ####{{ post.date | date: "%b %-d, %Y" }}
+  #### Date: {{ post.date | date: "%b %-d, %Y" }}
 
-  ##{{ post.title }}
+  ## Post: {{ post.title }}
 
 {% endfor %}
