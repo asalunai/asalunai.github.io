@@ -5,6 +5,8 @@
 
 ## [About me](./about).
 
+## [Arquivo](./posts).
+
 {% for post in site.posts %}
 
   #### Date: {{ post.date | date: "%b %-d, %Y" }}
