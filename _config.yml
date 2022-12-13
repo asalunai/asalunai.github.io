@@ -11,5 +11,6 @@ twitter_username: asalunai
 github_username:  asalunai
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
+theme: cayman
 # permalink: /:year/:title:output_ext
