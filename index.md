@@ -7,10 +7,8 @@
 
 ## [Arquivo](./posts).
 
-{% for post in site.posts %}
+{% for page in site.pages %}
 
-  #### Date: {{ post.date | date: "%b %-d, %Y" }}
-
-  ## Post: {{ post.title }}
+  ## Post: {{ page.url }}
 
 {% endfor %}
