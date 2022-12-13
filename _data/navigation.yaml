@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /year-archive
+  - title: "Publications"
+    url: /publications
+  - title: "About"
+    url: /about
