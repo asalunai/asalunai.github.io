@@ -1,7 +1,7 @@
 ---
 title: About
 description: A little about myself.
-permalink: /about
+permalink: /about/
 ---
 
 ## Welcome to another page
