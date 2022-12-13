@@ -3,7 +3,7 @@
 
 # Hello World
 
-## [About me](./about.html).
+## [About me](./about).
 
 {% for post in site.posts %}
 
